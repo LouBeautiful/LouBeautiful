@@ -1,12 +1,7 @@
 - 👋 Salut, je suis @LouBeautiful
-- 👀 Je suis interressé par le développement d'anticheats et des systèmes de sécurité informatique
-- 🌱 J'apprends le Java. Et je vais par la suite apprendre le python
-- 💞️ Je ne cherche pas à collaborer pour le moment
-- 📫 Mon Discord: loubeautiful
+- 👀 Je suis interressé par le développement de sites web et de systèmes de sécurité
+- 🌱 Quelques bases en Java, j'apprends le HTML et le CSS
+- 💞️ Vous voulez collaborer ? Let's gooo
+- ✨ Adresse mail: the.vaneme@gmail.com
 - 😄 Nom IRL: Louis
 - ⚡ Fun fact: Je suis con
-
-<!---
-LouBeautiful/LouBeautiful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
